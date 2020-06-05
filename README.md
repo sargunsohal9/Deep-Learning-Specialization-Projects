@@ -6,4 +6,4 @@ These are:
 3) Car Detection System
 4) Sign Language Recognition System
 
-I could not upload the relevent datasets along with the Jupyter notebooks for some projects due to some issues in the Coursera Jupyter notebook server which was not allowing me to download the datasets.
+I could not upload the relevent datasets along with the Jupyter notebooks for some projects due to some issues in the Coursera Jupyter notebook server. 
