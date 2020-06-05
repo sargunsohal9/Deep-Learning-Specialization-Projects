@@ -3,3 +3,4 @@ I have uploaded the codes and related files of the projects that I have mentione
 These are: 
 1) Sign Language Recognition System
 2) Face Recognition System
+3) Trigger Word Detection System 
